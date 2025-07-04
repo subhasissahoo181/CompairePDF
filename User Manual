@@ -1,0 +1,8 @@
+To Run Run this Project follow these steps.
+1:- Download the Zip folder and Extract.
+2:- Open Eclipse or Vs Code and Import the Extracted Zip file.
+3:- If you import in Eclipse then import as Existing Maven Project.
+4:- After successfully import go to the application.properties file under resource update your Database name, user Name & Password.
+5:- For storing result change the outputDirPath path in PdfService.java (If Required).
+6:- To run this project go to PdfComparatorApplication.java and run it.
+7:- Go to any browser and search http://localhost:8080/ .
